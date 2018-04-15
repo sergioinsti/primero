@@ -6,3 +6,4 @@ Otra, desde dentro del proyecto
 Otra línea más (borro una arriba)
 en línea de comandos
 Antes del merge
+y otro
