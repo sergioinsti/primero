@@ -3,5 +3,9 @@
 // Y cambio algo pero lo llevo a una rama (por si acasooo) (versión 3)
 Cambio desde el usuario colaborador
 Otra, desde dentro del proyecto
+<<<<<<< HEAD
 Otra línea más (borro una arriba)
 Antes del merge
+=======
+en línea de comandos
+>>>>>>> master
